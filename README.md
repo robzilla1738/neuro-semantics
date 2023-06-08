@@ -1,6 +1,8 @@
 # Neuro-Semantic Web (NSW) Processing:<br>A Paradigm Shift in Large Language Models
 This approach would aim to mimic the human brain's ability to understand, contextualize, and generate responses based on a complex web of semantic associations, emotional          contexts, and experiential learning.<br>
 
+Essentially shifting from linear thought patterns to "webbed" thought patterns.
+
 # THEORY
 
 **Here's an outline of what NSW processing could look like:**<br>
