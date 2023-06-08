@@ -5,8 +5,6 @@ Essentially shifting from linear thought patterns to "webbed" thought patterns.
 
 # THEORY
 
-**Here's an outline of what NSW processing could look like:**<br>
-
 **Dynamic Semantic Understanding:**<br>
 Just like the human brain, the NSW model would not only understand the literal meaning of words and phrases but also their context, connotations, and cultural significance. It     would dynamically adjust its understanding based on the context of the conversation or text.<br>
 
