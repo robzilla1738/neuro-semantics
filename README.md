@@ -38,8 +38,8 @@ The NSW model employs a meta-learning layer that monitors the model's performanc
 # IMPLEMENTATION
 
 **Dynamic Semantic Understanding:**<br>
-https://web.deployscript.com/8befa374-c421-43f9-8bdd-4350a7185f54/index.html
-The implementation steps for this component could be:
+https://web.deployscript.com/8befa374-c421-43f9-8bdd-4350a7185f54/index.html<br>
+**The implementation steps for this component could be:**
 
 1. Develop a context-aware embedding layer.
 2. Extend the transformer architecture with a dynamic attention mechanism.
