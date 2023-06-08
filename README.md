@@ -1,4 +1,7 @@
 # Neuro-Semantic Web (NSW) Processing:<br>A Paradigm Shift in Large Language Models
+
+<img width="1709" alt="Screenshot 2023-06-08 at 5 04 27 PM" src="https://github.com/robzilla1738/neuro-semantics/assets/135086771/478cbc39-1175-4af6-bb05-0626d701400c">
+
 This approach would aim to mimic the human brain's ability to understand, contextualize, and generate responses based on a complex web of semantic associations, emotional          contexts, and experiential learning.<br>
 
 Essentially shifting from linear thought patterns to "webbed" thought patterns.
@@ -37,9 +40,11 @@ The NSW model employs a meta-learning layer that monitors the model's performanc
 
 # IMPLEMENTATION
 
+<img width="1717" alt="Screenshot 2023-06-08 at 5 06 12 PM" src="https://github.com/robzilla1738/neuro-semantics/assets/135086771/97597d81-22c1-4511-8f1d-ad10fc85ebc6">
+
 **Dynamic Semantic Understanding:**<br>
 https://web.deployscript.com/8befa374-c421-43f9-8bdd-4350a7185f54/index.html<br>
-**The implementation steps for this component could be:**
+**The implementation steps:**
 
 1. Develop a context-aware embedding layer.
 2. Extend the transformer architecture with a dynamic attention mechanism.
