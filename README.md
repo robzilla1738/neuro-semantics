@@ -1,4 +1,4 @@
-# Neuro-Semantic Web (NSW) Processing:<br>A Paradigm Shift in Large Language Models
+# Neuro-Semantic Web (NSW) Processing:<br>A Novel Approach to Large Language Models
 
 <img width="1709" alt="Screenshot 2023-06-08 at 5 04 27 PM" src="https://github.com/robzilla1738/neuro-semantics/assets/135086771/478cbc39-1175-4af6-bb05-0626d701400c">
 
